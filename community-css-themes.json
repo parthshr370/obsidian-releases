@@ -2931,6 +2931,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Ember-Night",
+    "author": "Parth Sharma",
+    "repo": "parthshr370/Ember-Night",
+    "screenshot": "ember-night-capture.png",
+    "modes": ["dark", "light"]
+  }
+  {
     "name": "Brutalist",
     "author": "DuckTapeKiller",
     "repo": "DuckTapeKiller/Brutalist",
